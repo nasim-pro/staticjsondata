@@ -1,2 +1,2 @@
 # staticjsondata
-https://n451m-dev.github.io/staticjsondata/
+https://nasim-pro.github.io/staticjsondata/
